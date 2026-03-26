@@ -18,7 +18,7 @@ Runtime: Node.js
 
 Framework: Express.js
 
-Database: SQLite3
+Database: Better-SQLite3 (High-performance, synchronous SQLite3 driver)
 
 Development: Nodemon
 
